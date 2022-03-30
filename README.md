@@ -1,4 +1,6 @@
 ### Hi there 👋
+* https://mintsatang.tistory.com/ <- this is my blog
+
 ![BUYA's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUYA-GH&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BUYA-GH&layout=compact&theme=vue)
 
